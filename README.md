@@ -1,3 +1,3 @@
 Hi, I’m Luke Supan.
 
-I'm checking GitHub out for the first time.
+I haven't begun using GitHub yet, I've just set it up for the future.
