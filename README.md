@@ -4,4 +4,4 @@ Currently working on:
 
 Completed Projects:
 - Epoch
-- Pong recreation
+- Pong recreation (Small updates may be made over time)
