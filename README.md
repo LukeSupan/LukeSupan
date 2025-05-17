@@ -8,4 +8,3 @@
 
 **Future Projects:**
 - Untitled 2D platformer
-- Personal website
