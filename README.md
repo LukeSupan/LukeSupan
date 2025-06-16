@@ -4,8 +4,8 @@
 - First COP4331C full-stack project, made with LAMP stack (Comet Contacts)
 
 **Currently working on:**
-- Personal website with GitHub Pages
+- Second COP4331C full-stack project, made with MERN stack (Untitled)
 
 **Future Projects:**
-- Second COP4331C full-stack project, made with MERN stack (Untitled)
+- Personal website using React with GitHub Pages
 - Untitled 2D platformer
