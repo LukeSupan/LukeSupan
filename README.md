@@ -1,10 +1,10 @@
 **Completed Projects:**
-- Epoch
-- Pong recreation (Small updates may be made over time)
-- First COP4331C full-stack project, made with LAMP stack (Comet Contacts)
+- Game created for UCF - AI for Game Programming (Epoch, Team)
+- Pong recreation in Unity (Pong, Solo)
+- First COP4331C full-stack project, made with LAMP stack (Comet Contacts, Team)
 
 **Currently working on:**
-- Second COP4331C full-stack project, made with MERN stack (Untitled)
+- Screentime reducing android app with connected site created with MERN stack, Flutter (ScreenBuddy, Team)
 
 **Future Projects:**
 - Personal website using React with GitHub Pages
