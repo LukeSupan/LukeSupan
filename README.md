@@ -7,7 +7,7 @@
 - Screentime reducing android app with connected site created with MERN stack, Flutter (ScreenBuddy, Team, COP 4331)
 
 **Currently working on:**
-- Personal website using React with GitHub Pages, it will act as a portfolio
+- Personal website using React with GitHub Pages acting as a portfolio
 
 **Future Projects:**
 - Untitled 2D platformer made with Unity
