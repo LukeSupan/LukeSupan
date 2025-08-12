@@ -11,3 +11,4 @@
 
 **Future Projects:**
 - Untitled 2D platformer made with Unity
+- Web blog for game reviews
