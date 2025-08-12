@@ -1,4 +1,4 @@
-*Projects are listed as (Title, Solo/Team, Class if applicable)
+*Projects are listed as (Title, Solo/Team, Class if applicable)*
 
 **Completed Projects:**
 - Game created for UCF - AI for Game Programming (Epoch, Team, CAP 4053)
