@@ -9,7 +9,7 @@
 **Currently working on:**
 - Simple personal website with GitHub Pages acting as a portfolio (Solo, CIS4004)
 - Senior Design Project (Team, COP 4934)
-- Android Studio Testing (Solo, CEN 4360)
+- Android Studio Practice (Solo, CEN 4360)
 
 **Future Projects:**
 - Untitled 2D platformer made with Unity (Solo, Personal)
