@@ -1,6 +1,6 @@
 CS grad from UCF (Magna Cum Laude, 3.9 GPA).
 
-I build full-stack web apps with React, Next.js, and FastAPI. Most recently I led a 6-person team building a medical resident scheduler for HCA Healthcare.
+I like to build full-stack web apps, mostly with React, Next.js, and FastAPI. Most recently I led a 6-person team building a medical resident scheduler for HCA Healthcare.
 
 ---
 
