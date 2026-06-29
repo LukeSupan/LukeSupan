@@ -1,4 +1,6 @@
-go play the pong i made. https://holeset.itch.io/pong-by-holeset
+CS grad from UCF (Magna Cum Laude, 3.9 GPA).
+I build full-stack web apps with React, Next.js, and FastAPI. Most recently I led a 6-person team building a medical resident scheduler for HCA Healthcare.
 
-go use my stat tracker. https://power-level-scouter.vercel.app/
-(if the scouter fails its because im out of claude credit for the month...)
+Power Level, my deployed stat tracker: power-level-scouter.vercel.app
+PONG, a recreation of Pong in Unity: holeset.itch.io/pong-by-holeset
+Personal site: lukesupan.com
